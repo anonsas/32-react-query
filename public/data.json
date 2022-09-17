@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "Antonel",
+    "last_name": "Moreno",
+    "age": 27,
+    "classes": ["english", "science", "math"],
+    "scores": [104, 105, 203, 102, 403]
+  },
+  {
+    "first_name": "Pablo",
+    "last_name": "Latino",
+    "age": 30,
+    "classes": ["english", "science", "math"],
+    "scores": [104, 105, 203, 102, 403]
+  },
+  {
+    "first_name": "Leon",
+    "last_name": "Musk",
+    "age": 45,
+    "classes": ["english", "science", "math"],
+    "scores": [104, 105, 203, 102, 403]
+  }
+]

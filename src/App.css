@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  column-gap: 2rem;
+}
+
+.product-list {
+  padding: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+}
+
+.product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 2rem;
+  background-color: #fff;
+  padding: 1rem;
+  width: 40rem;
+  cursor: pointer;
+}
